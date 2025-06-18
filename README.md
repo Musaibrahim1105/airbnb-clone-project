@@ -19,7 +19,7 @@
 |Simple Checkout View   |Streamlined payment and booking confirmation           |
 
 
-# Importance of User-Friendly Design
+## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 ### Color styles
@@ -37,3 +37,25 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ## importance of identifying design properties of a mock up design
 In summary, identifying design properties bridges the gap between creative ideas and functional products. It helps turn a beautiful mockup into a real, user-friendly application
+
+### Project Roles and Responsibilities
+
+| Role               | Responsibilities                                                                 |
+|--------------------|----------------------------------------------------------------------------------|
+| Project Manager    | Oversees timeline, coordinates team, manages deliverables                        |
+| Frontend Developers| Implements UI components, ensures responsive design                              |
+| Backend Developers | Builds APIs, manages database, implements business logic                         |
+| Designers          | Creates mockups, maintains design system, ensures UX quality                     |
+| QA/Testers         | Writes test cases, performs testing, reports bugs                                |
+| DevOps Engineers   | Manages deployment, CI/CD pipeline, server infrastructure                        |
+| Product Owner      | Defines requirements, prioritizes features, represents stakeholders              |
+| Scrum Master       | Facilitates agile processes, removes blockers, organizes meetings                |
+
+### UI Component Patterns
+
+| Component      | Elements Included                                                                 |
+|----------------|------------------------------------------------------------------------------------|
+| **Navbar**     | Logo, Search bar, User navigation, Responsive menu                                |
+| **Property Card** | Property image, Basic details (price, location, rating), Favorite button, Responsive layout |
+| **Footer**     | Site links, Company information, Social media links, Copyright information         |
+
